@@ -1,6 +1,6 @@
 import java.io.Serializable;
 
-public class Account implements Serializable {
+public class Account implements Serializable{
 int cusnum;
 int pin;
 double balance;
